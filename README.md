@@ -42,7 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 <H3>PROGRAM</H3>
-```
+'''
 import random
 
 class HealthMonitoringAgent:
@@ -113,7 +113,8 @@ if __name__ == "__main__":
     health_monitoring_agent.actuators = health_actuators
 
     health_monitoring_agent.monitor_health()
-```    
+'''   
+
 <H3>OUTPUT</H3>
 <img width="362" height="332" alt="image" src="https://github.com/user-attachments/assets/82725721-cffe-47ba-a1af-4eea1200334e" />
 
