@@ -83,7 +83,7 @@ class HealthMonitoringAgent:
         else:
             return "No specific action needed"
 
-
+'''
 class HealthSensors:
     def get_health_state(self):
         return {
@@ -104,7 +104,7 @@ if __name__ == "__main__":
         'name': 'subiksha ',
         'age': 20
     }
-
+'''
     health_sensors = HealthSensors()
     health_actuators = HealthActuators()
 
